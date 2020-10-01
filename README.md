@@ -1,5 +1,7 @@
 # Push Notifications in iOS 10 [Swift 3]
 
+# This code is written in swift 3 but if someone understand this and use according to requrement. This is a best place to use.
+
 <p align="justify">The new framework called "UserNotifications"	is introduced with iOS 10 SDK. The <a href="https://developer.apple.com/reference/usernotifications" target="_blank">UserNotifications framework</a> (UserNotifications.framework) supports the delivery and handling of local and remote notifications.
 
 So, Let see what we have to change to get the push notifications in iOS 10.
